@@ -2,7 +2,7 @@
 
 ## Topics Covered
 
-### Sentiment Analysis
-### Text Classification
-### Summarization
-### Chatbots
+#### 1.Sentiment Analysis
+#### 2.Text Classification
+#### 3.Summarization
+#### 4.Chatbots
